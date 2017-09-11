@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6C2EDBA5-76FE-4194-BCF3-11D9CC4DC4C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Anagrams/LevelModel/EmptyClass.cs">
+    <Files>
+      <File FileName="Anagrams/AppDelegate.cs" Line="14" Column="10" />
+      <File FileName="Anagrams/Main.storyboard" />
+      <File FileName="Anagrams/AnagramModel/AnagramModel.cs" Line="12" Column="9" />
+      <File FileName="Anagrams/LevelModel/EmptyClass.cs" Line="5" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.Anagrams PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Anagrams>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

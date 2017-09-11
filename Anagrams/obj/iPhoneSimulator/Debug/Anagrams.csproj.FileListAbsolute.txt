@@ -1,0 +1,9 @@
+/Users/Magda/Projects/Anagrams/Anagrams/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Magda/Projects/Anagrams/Anagrams/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Magda/Projects/Anagrams/Anagrams/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Magda/Projects/Anagrams/Anagrams/obj/iPhoneSimulator/Debug/optimized/
+/Users/Magda/Projects/Anagrams/Anagrams/obj/iPhoneSimulator/Debug/Anagrams.csproj.CoreCompileInputs.cache
+/Users/Magda/Projects/Anagrams/Anagrams/bin/iPhoneSimulator/Debug/Anagrams.exe
+/Users/Magda/Projects/Anagrams/Anagrams/bin/iPhoneSimulator/Debug/Anagrams.pdb
+/Users/Magda/Projects/Anagrams/Anagrams/obj/iPhoneSimulator/Debug/Anagrams.exe
+/Users/Magda/Projects/Anagrams/Anagrams/obj/iPhoneSimulator/Debug/Anagrams.pdb
